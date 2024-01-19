@@ -1,0 +1,9 @@
+/* CSS styles for the webpage */
+body {
+  background-color: rgb(16, 16, 16);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
